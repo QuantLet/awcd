@@ -20,7 +20,7 @@ Output: 'plot of 3 windows: 1. the true weight matrix of a graph (white means 1,
 
 ```
 
-![Picture1](awcd/Figure_2.png)
+![Picture1](Figure_2.png)
 
 Adaptive Weights Community Detection
 -----------
